@@ -1456,6 +1456,20 @@
       "when": 1794065054788,
       "tag": "0207_agent_account_settings",
       "breakpoints": true
+    },
+    {
+      "idx": 208,
+      "version": "7",
+      "when": 1794068654788,
+      "tag": "0208_add_meetings",
+      "breakpoints": true
+    },
+    {
+      "idx": 209,
+      "version": "7",
+      "when": 1794149966527,
+      "tag": "0209_add_meeting_error",
+      "breakpoints": true
     }
   ],
   "version": "6"
